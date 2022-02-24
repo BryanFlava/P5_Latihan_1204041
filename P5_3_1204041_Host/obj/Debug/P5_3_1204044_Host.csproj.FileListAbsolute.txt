@@ -1,0 +1,11 @@
+c:\users\user\onedrive\gambar\dokumen\visual studio 2015\Projects\P5_3_1204044\P5_3_1204044_Host\bin\Debug\P5_3_1204044_Host.exe.config
+c:\users\user\onedrive\gambar\dokumen\visual studio 2015\Projects\P5_3_1204044\P5_3_1204044_Host\bin\Debug\P5_3_1204044_Host.exe
+c:\users\user\onedrive\gambar\dokumen\visual studio 2015\Projects\P5_3_1204044\P5_3_1204044_Host\bin\Debug\P5_3_1204044_Host.pdb
+c:\users\user\onedrive\gambar\dokumen\visual studio 2015\Projects\P5_3_1204044\P5_3_1204044_Host\bin\Debug\P5_3_1204044.dll
+c:\users\user\onedrive\gambar\dokumen\visual studio 2015\Projects\P5_3_1204044\P5_3_1204044_Host\bin\Debug\P5_3_1204044.pdb
+c:\users\user\onedrive\gambar\dokumen\visual studio 2015\Projects\P5_3_1204044\P5_3_1204044_Host\obj\Debug\P5_3_1204044_Host.csprojResolveAssemblyReference.cache
+c:\users\user\onedrive\gambar\dokumen\visual studio 2015\Projects\P5_3_1204044\P5_3_1204044_Host\obj\Debug\P5_3_1204044_Host.Form1.resources
+c:\users\user\onedrive\gambar\dokumen\visual studio 2015\Projects\P5_3_1204044\P5_3_1204044_Host\obj\Debug\P5_3_1204044_Host.Properties.Resources.resources
+c:\users\user\onedrive\gambar\dokumen\visual studio 2015\Projects\P5_3_1204044\P5_3_1204044_Host\obj\Debug\P5_3_1204044_Host.csproj.GenerateResource.Cache
+c:\users\user\onedrive\gambar\dokumen\visual studio 2015\Projects\P5_3_1204044\P5_3_1204044_Host\obj\Debug\P5_3_1204044_Host.exe
+c:\users\user\onedrive\gambar\dokumen\visual studio 2015\Projects\P5_3_1204044\P5_3_1204044_Host\obj\Debug\P5_3_1204044_Host.pdb
